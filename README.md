@@ -10,6 +10,7 @@ Developed as part of the Data Analytics & Science program at Masterschool, this 
 In this repository, you will find:
 * PDF documentation detailing the project.
 * A Colab notebook outlining the process and methodology.
+* The dataset in a CSV file.
 
 ### Motivation and Context
 The motivation behind this project is to gain hands-on experience with supervised machine learning algorithms and data analysis techniques. By addressing a practical classification problem, the project emphasizes applying foundational knowledge to uncover insights and build predictive models.
