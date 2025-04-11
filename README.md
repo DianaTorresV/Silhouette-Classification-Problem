@@ -1,5 +1,5 @@
 ---
-# Vehicle Classification Using Geometric Features
+# Silhouette Classification Problem
 
 ## Repository Overview
 
